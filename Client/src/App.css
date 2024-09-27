@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+input{
+  background-color: white;
+}
+*{
+  font-family: "Outfit", sans-serif;
+  color: white;
+  background-color: #00132F;
+  
+}
+
+.page{
+  margin-left: 120px;
+  margin-right: 120px;
+  grid-template: 70px 100% / 100%;
+  display: grid;
+  height: 100vh;
+}
