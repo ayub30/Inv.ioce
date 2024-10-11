@@ -24,16 +24,17 @@ This project is an intuitive and easy-to-use invoice generation web application,
 ## Screenshots
 
 ### 1. Landing Page
-![Landing Page](./mnt/data/Landing-Page.png)
+<img src="./screenshots/Invoice-History.png" alt="Landing Page" width="400" style="border-radius: 100"/>
 
-### 2. Invoice Creation Form (Part 1)
-![Invoice Form 1](./mnt/data/Invoice-form.png)
+### 2. Invoice Creation Form
+<img src="./screenshots/Invoice-form.png" alt="Invoice Form 1" width="400" style="border-radius: 100"/>
 
 ### 3. Invoice History
-![Invoice History](./mnt/data/Invoice-History.png)
-
+<img src="./screenshots/Landing-Page.png" alt="Invoice History" width="400" style="border-radius: 100"/>
 
 ---
+
+
 
 ## Technologies Used
 - **Frontend (Client)**: React.js
